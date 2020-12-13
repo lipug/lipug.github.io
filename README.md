@@ -6,7 +6,7 @@
 
 ## Les sous-groupes / sub groups 
 
-### Paradigme fonctionnel / functional perograming
+### Paradigme fonctionnel / functional programming
 ### Paradigme objet / OOP
 ### Machine learning
 ### Data Science
