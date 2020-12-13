@@ -1,2 +1,3 @@
-# lijug.git.io
+# LIPUG 
+
 Lebanese Python Users Group Pages
