@@ -17,3 +17,4 @@ It is being created
 
 يتم إنشاؤه
 
+# Vous souhaitez rejoindre la communauté? Laissez un message dans les discutions en vous présentant et présentant vos motivations https://github.com/lipug/lipug.github.io/discussions
