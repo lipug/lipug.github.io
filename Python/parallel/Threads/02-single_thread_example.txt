@@ -1,0 +1,6 @@
+This video demonstrates a single-threaded application that gets blocked, resulting in poor user experience.
+
+Source code: thread.py
+
+Documentation:
+- https://docs.python.org/3/library/time.html#time.sleep

@@ -1,0 +1,7 @@
+In this video you will create a bank account program that demonstrates a race condition.
+
+Source code: 09-account.py
+
+Documentation:
+- https://en.wikipedia.org/wiki/Race_condition#Software
+- https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Executor.submit

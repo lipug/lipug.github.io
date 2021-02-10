@@ -1,0 +1,7 @@
+In this video you will learn what a semaphore is and see an example program
+that uses semaphores to protect a limited resource.
+
+Source code: 14-semaphore.py
+
+Documentation:
+- https://docs.python.org/3/library/threading.html#semaphore-objects

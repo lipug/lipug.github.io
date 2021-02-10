@@ -1,0 +1,7 @@
+In this video you will learn about timer objects and see a program that
+starts a thread at a specific time.
+
+Source code: 15-timer.py
+
+Documentation:
+- https://docs.python.org/3/library/threading.html#timer-objects

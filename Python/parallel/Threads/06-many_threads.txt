@@ -1,0 +1,7 @@
+In this video you create a multi-threaded program and see how sometimes threads don't
+finish completing in an order that you may expect.
+
+Source code: 06-many_threads.py
+
+Documentation:
+- https://docs.python.org/3/library/threading.html#threading.Thread.join

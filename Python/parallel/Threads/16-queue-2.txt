@@ -1,0 +1,9 @@
+In this video you will finish creating your message queue and analyze the output
+of the program.
+
+Source code: 13-queue.py
+
+Documentation:
+- https://docs.python.org/3/library/threading.html#threading.Event
+- https://docs.python.org/3/library/queue.html#module-queue 
+- https://docs.python.org/3/library/functions.html#super

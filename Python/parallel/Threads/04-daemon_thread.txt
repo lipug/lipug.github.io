@@ -1,0 +1,8 @@
+In this video you learn about daemon threads. The main difference between a regular thread
+and a daemon thread, is that the main thread will not wait for daemon threads to complete
+before exiting.
+
+Source code: 04-daemon.py
+
+Documentation:
+- https://docs.python.org/3/library/threading.html#threading.Thread

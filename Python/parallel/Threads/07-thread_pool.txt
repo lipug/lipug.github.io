@@ -1,0 +1,8 @@
+In this video you will refactor your previous code by using a thread pool executor
+from the concurrent.futures module.
+
+Source code: 07-thread_pool.py
+
+Documentation:
+- https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.ThreadPoolExecutor
+- https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Executor.map

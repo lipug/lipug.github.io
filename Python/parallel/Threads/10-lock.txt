@@ -1,0 +1,7 @@
+In this video you will learn about lock objects and how you can use a lock as a context manager
+to prevent more than one thread from accessing a part of your program at the same time.
+
+Source code: 10-lock.py
+
+Documentation:
+- https://docs.python.org/3/library/threading.html#lock-objects
