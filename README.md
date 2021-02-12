@@ -1,3 +1,13 @@
+# Vidéos et présentations
+
+Vous trouverez dans cette page une classification de vidéo concernant Python, issue de la chaîne https://www.youtube.com/c/PascalFares
+
+[Les vidéos et présentations, Python](VideosYouTube)
+
+# Le github du users group
+
+[Lien vers le projet github](https://github.com/lipug/lipug.github.io)
+
 # LIPUG - just created gathering members / vient d'être créé, rassembler des membres
 
 - [EN] Lebanese Python Users Group Pages
