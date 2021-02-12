@@ -2,7 +2,7 @@
 
 Vous trouverez dans cette page une classification de vidéo concernant Python, issue de la chaîne https://www.youtube.com/c/PascalFares
 
-[Les vidéos et présentations, Python](VideosYouTube)
+[Les vidéos et présentations, Python](VideosYouTube/)
 
 # Le github du users group
 
